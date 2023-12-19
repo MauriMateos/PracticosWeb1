@@ -1,0 +1,19 @@
+
+  table {
+    border-collapse: collapse;
+    border: 4px double gray;
+    background-color: gray; 
+    border-spacing: 12px; 
+  }
+  
+  th {
+    border: 2px solid #4DB6AC; 
+    background-color: #4DB6AC; 
+    padding: 4px; 
+  }
+  
+  td {
+    border: 2px ridge orange; 
+    background-color: orange; 
+    padding: 4px; 
+  }
